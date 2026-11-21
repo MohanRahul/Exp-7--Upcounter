@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/7ff70263-0dc7-4325-9de9-66c1a486a694" />
+
 # Exp-7--Upcounter
 # Design and Verification of a 4-bit Synchronous Up-Counter
 ## Aim
