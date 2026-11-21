@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/7ff70263-0dc7-4325-9de9-66c1a486a694" />
 # Exp-7--Upcounter
 # Design and Verification of a 4-bit Synchronous Up-Counter
 ## Aim
@@ -88,6 +89,9 @@ count(next) = count + 1   (when en = 1), wrapping from 1111 to 0000
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected state transition table.
 
 ## Output
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/fe06238a-4085-490b-9f19-19d0d8905fd7" />
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/aad0e6fc-640f-45f6-be29-6da5be9a5d83" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/87afa359-1b09-4beb-bb9d-d5ef2573c502" />
 
 
 
